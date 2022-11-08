@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tomatoG0105
+- 👋 Hi, I’m Fangjie Guo
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning data structure and algorithm.
 - 💞️ I’m looking to collaborate on ...
